@@ -30,9 +30,10 @@
             <br>
             <a href="https://github.com/SonMyeongHwa"><I>손명화깃헙</I></a>
         </td>
-        <td>
+          <td>
+            <img src="https://github.com/user-attachments/assets/43119cfd-2d54-4d89-8e43-4d8bd7457e59?size=200">
             <br>
-            <a href="https://github.com/xeongjae"><I>정찬영깃헙</I></a>
+            <a href="https://github.com/JungChanyyoung"><I>정찬영깃헙</I></a>
         </td>
          <td>
             <br>
