@@ -31,7 +31,7 @@
             <a href="https://github.com/SonMyeongHwa"><I>손명화깃헙</I></a>
         </td>
           <td>
-            <img src="https://github.com/user-attachments/assets/43119cfd-2d54-4d89-8e43-4d8bd7457e59?size=200">
+            <img src="https://github.com/user-attachments/assets/0ed850ab-e4c6-492b-9b93-d46c88e95a18" width="200" >
             <br>
             <a href="https://github.com/JungChanyyoung"><I>정찬영깃헙</I></a>
         </td>
