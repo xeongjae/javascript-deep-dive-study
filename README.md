@@ -26,8 +26,9 @@
             <a href="https://github.com/xeongjae"><I>xeongjae</I></a>
         </td>
         <td>
+            <img src="https://github.com/user-attachments/assets/e41c7047-5f3c-48e4-810c-4beefc8ed8e0" width="200">
             <br>
-            <a href="https://github.com/xeongjae"><I>손명화깃헙</I></a>
+            <a href="https://github.com/SonMyeongHwa"><I>손명화깃헙</I></a>
         </td>
         <td>
             <br>
