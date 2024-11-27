@@ -1,6 +1,7 @@
 # Modern Javascript Deep Dive Study
 <img src="https://github.com/user-attachments/assets/fc233ccc-66ce-4903-a152-5ccfdf40c574" alt="책 이미지" width="250" height="300">
 <br>
+<br>
 
 ## 📚 스터디 진행방식
 - 기본적으로 책 1장에 1주씩 진행.
