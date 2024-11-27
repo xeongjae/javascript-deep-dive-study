@@ -24,14 +24,12 @@
             <a href="https://github.com/xeongjae"><I>xeongjae</I></a>
         </td>
         <td>
-            <img src="https://avatars.githubusercontent.com/u/141702982?size=200">
             <br>
-            <a href="https://github.com/xeongjae"><I>xeongjae</I></a>
+            <a href="https://github.com/xeongjae"><I>손명화깃헙</I></a>
         </td>
         <td>
-            <img src="https://avatars.githubusercontent.com/u/141702982?size=200">
             <br>
-            <a href="https://github.com/xeongjae"><I>xeongjae</I></a>
+            <a href="https://github.com/xeongjae"><I>정찬영깃헙</I></a>
         </td>
     </tr>
 </table>
