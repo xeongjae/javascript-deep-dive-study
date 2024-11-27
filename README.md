@@ -13,41 +13,15 @@
 ## 🐥 스터디 맴버
 <table>
     <tr align="center">
-        <td><B>Leader / Backend<B></td>
-        <td><B>Backend<B></td>
-        <td><B>Backend<B></td>
-        <td><B>Frontend<B></td>
-        <td><B>Frontend<B></td>
-        <td><B>Frontend<B></td>
-    </tr>
-    <tr align="center">
-        <td><B>이민섭<B></td>
-        <td><B>허은리<B></td>
-        <td><B>김동현<B></td>
-        <td><B>이진이<B></td>
         <td><B>김성재<B></td>
-        <td><B>소유빈<B></td>
+        <td><B>손명화<B></td>
+        <td><B>정찬영<B></td>
     </tr>
     <tr align="center">
         <td>
-            <img src="">
+            <img src="https://avatars.githubusercontent.com/u/141702982?size=100">
             <br>
-            <a href="https://github.com/lms990108"><I>lms990108</I></a>
-        </td>
-        <td>
-            <img src="https://avatars.githubusercontent.com/u/122986061?size=100">
-            <br>
-            <a href="https://github.com/eunli"><I>eunli</I></a>
-        </td>
-        <td>
-            <img src="">
-            <br>
-            <a href="https://github.com/dongjangoon"><I>dongjangoon</I></a>
-        </td>
-        <td>
-            <img src="">
-            <br>
-            <a href="https://github.com/jin-dooly"><I>jin-dooly</I></a>
+            <a href="https://github.com/xeongjae"><I>xeongjae</I></a>
         </td>
         <td>
             <img src="https://avatars.githubusercontent.com/u/141702982?size=100">
@@ -55,9 +29,9 @@
             <a href="https://github.com/xeongjae"><I>xeongjae</I></a>
         </td>
         <td>
-            <img src="https://avatars.githubusercontent.com/u/99963066?size=100">
+            <img src="https://avatars.githubusercontent.com/u/141702982?size=100">
             <br>
-            <a href="https://github.com/kanujoa"><I>kanujoa</I></a>
+            <a href="https://github.com/xeongjae"><I>xeongjae</I></a>
         </td>
     </tr>
 </table>
