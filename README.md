@@ -21,17 +21,17 @@
     </tr>
     <tr align="center">
         <td>
-            <img src="https://avatars.githubusercontent.com/u/141702982?size=200">
+            <img src="https://avatars.githubusercontent.com/u/141702982?size=150">
             <br>
             <a href="https://github.com/xeongjae"><I>xeongjae</I></a>
         </td>
         <td>
-            <img src="https://github.com/user-attachments/assets/e41c7047-5f3c-48e4-810c-4beefc8ed8e0" width="200">
+            <img src="https://github.com/user-attachments/assets/e41c7047-5f3c-48e4-810c-4beefc8ed8e0" width="150">
             <br>
             <a href="https://github.com/SonMyeongHwa"><I>myeonghwa</I></a>
         </td>
           <td>
-            <img src="https://github.com/user-attachments/assets/0ed850ab-e4c6-492b-9b93-d46c88e95a18" width="200" >
+            <img src="https://github.com/user-attachments/assets/0ed850ab-e4c6-492b-9b93-d46c88e95a18" width="150" >
             <br>
             <a href="https://github.com/JungChanyyoung"><I>chanyoung</I></a>
         </td>
