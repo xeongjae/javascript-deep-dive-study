@@ -19,17 +19,17 @@
     </tr>
     <tr align="center">
         <td>
-            <img src="https://avatars.githubusercontent.com/u/141702982?size=100">
+            <img src="https://avatars.githubusercontent.com/u/141702982?size=200">
             <br>
             <a href="https://github.com/xeongjae"><I>xeongjae</I></a>
         </td>
         <td>
-            <img src="https://avatars.githubusercontent.com/u/141702982?size=100">
+            <img src="https://avatars.githubusercontent.com/u/141702982?size=200">
             <br>
             <a href="https://github.com/xeongjae"><I>xeongjae</I></a>
         </td>
         <td>
-            <img src="https://avatars.githubusercontent.com/u/141702982?size=100">
+            <img src="https://avatars.githubusercontent.com/u/141702982?size=200">
             <br>
             <a href="https://github.com/xeongjae"><I>xeongjae</I></a>
         </td>
