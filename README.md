@@ -28,16 +28,16 @@
         <td>
             <img src="https://github.com/user-attachments/assets/e41c7047-5f3c-48e4-810c-4beefc8ed8e0" width="200">
             <br>
-            <a href="https://github.com/SonMyeongHwa"><I>손명화깃헙</I></a>
+            <a href="https://github.com/SonMyeongHwa"><I>myeonghwa</I></a>
         </td>
           <td>
             <img src="https://github.com/user-attachments/assets/0ed850ab-e4c6-492b-9b93-d46c88e95a18" width="200" >
             <br>
-            <a href="https://github.com/JungChanyyoung"><I>정찬영깃헙</I></a>
+            <a href="https://github.com/JungChanyyoung"><I>chanyoung</I></a>
         </td>
          <td>
             <br>
-            <a href="https://github.com/xeongjae"><I>김태욱깃헙</I></a>
+            <a href="https://github.com/Woo7i"><I>김태욱깃헙</I></a>
         </td>
     </tr>
 </table>
