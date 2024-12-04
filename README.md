@@ -36,8 +36,9 @@
             <a href="https://github.com/JungChanyyoung"><I>chanyoung</I></a>
         </td>
          <td>
+             <img src="https://avatars.githubusercontent.com/u/104901712?size=100">
             <br>
-            <a href="https://github.com/Woo7i"><I>김태욱깃헙</I></a>
+            <a href="https://github.com/Woo7i"><I>taewook</I></a>
         </td>
     </tr>
 </table>
