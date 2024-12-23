@@ -31,7 +31,7 @@
             <a href="https://github.com/SonMyeongHwa"><I>myeonghwa</I></a>
         </td>
           <td>
-            <img src="https://github.com/user-attachments/assets/0ed850ab-e4c6-492b-9b93-d46c88e95a18" width="150" >
+            <img src="https://avatars.githubusercontent.com/JungChanyyoung" width="150" >
             <br>
             <a href="https://github.com/JungChanyyoung"><I>chanyoung</I></a>
         </td>
